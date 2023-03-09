@@ -1,0 +1,23 @@
+import React from 'react'
+
+
+const Contact = () => {
+  return (
+    <div name='contact' className='w-full h-screen bg-[#0D0D0D] flex justify-center items-center p-4 mt-7'>
+<form method="POST" action="https://getform.io/f/44ef1251-56b2-47ca-a43b-9c3faddf1d63" className='flex flex-col max-w-[600px] w-full'>
+    <div className='pb-8'>
+        <h1 className='text-4xl font-bold inline border-b-4 border-pink-600 text-gray-400'>Contact</h1>
+        <p className='text-gray-300 py-4'>Lets Talk! Shoot me an email at kamauestherofficial@gmail.com</p>
+        </div>
+
+        <input className=' my-4 p-4 bg-white rounded-lg' type="text" placeholder='Name' name='name' />
+        <input className='my-4 p-4 bg-white rounded-lg' type="text" placeholder='Email' name='email' />
+        <textarea className='my-6 p-4 bg-white rounded-lg' name="message" id="" cols="10" rows="10" placeholder='Message'></textarea>
+
+        <button className='text-white border-2 hover:bg-pink-600 px-4 py-3 my-8 mx-auto flex items-center'>Let's Collaborate</button>      
+</form>
+</div>
+  )
+}
+
+export default Contact
