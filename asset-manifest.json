@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Z-to-M/static/css/main.f60f876b.css",
+    "main.js": "/Z-to-M/static/js/main.7352b387.js",
+    "static/media/realestit.jpg": "/Z-to-M/static/media/realestit.47f7d74f2590edc7671a.jpg",
+    "static/media/workImg.jpeg": "/Z-to-M/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/react.png": "/Z-to-M/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/figma.png": "/Z-to-M/static/media/figma.76112c749e8bb243ca74.png",
+    "static/media/logo.png": "/Z-to-M/static/media/logo.a05a4b4b2c11c0e093a2.png",
+    "static/media/html.png": "/Z-to-M/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Z-to-M/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Z-to-M/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Z-to-M/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Z-to-M/index.html",
+    "main.f60f876b.css.map": "/Z-to-M/static/css/main.f60f876b.css.map",
+    "main.7352b387.js.map": "/Z-to-M/static/js/main.7352b387.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f60f876b.css",
+    "static/js/main.7352b387.js"
+  ]
+}
